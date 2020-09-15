@@ -1,0 +1,3 @@
+Şaşi no => string yapıldı.
+Tekil olan tablo isimleri çoğul yapıldı
+User tablosundaki user type boş bırakılamaz olarka işaretlendi.
